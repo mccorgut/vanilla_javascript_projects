@@ -1,7 +1,7 @@
-## Form Validator
+# Form Validator
 Simple client side form validation.
 
-# Specifications
+## Specifications
 - Create form UI
 - Show error messages under specific inputs
 - checkRequired() to accept array of inputs
